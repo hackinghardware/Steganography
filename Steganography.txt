@@ -1,5 +1,10 @@
 Reto I
+Dificultad: 0
 
+Encuentra la 
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+Reto II
 Dificultad: 2
 
 Se tienen sospechas de que en la siguiente imagen está escondida, de alguna manera, una contraseña
